@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+duke-16.myshopify.com	TRUE	/	FALSE	1999999999	_secure_session_id	e8c14fefb3f8ea4c908bd182265605e6
+duke-16.myshopify.com	TRUE	/	FALSE	1999999999	cart	b9e2e0f636f4f4806a2fca5d850f456d
+duke-16.myshopify.com	TRUE	/	FALSE	1999999999	_session_id	eded0cca918cd65ed64d0275da5530f6
+.google.com	TRUE	/	FALSE	1999999999	NID	70=p5RgijFkceaflQBAMO5Bo8vjXcPKHauxqdrz0N8QDi5zMoHwe5zMDgD9Ycr_cqXu7aTXGzy_YrqJpWAF9Q5sp5cIADPkXaBw08p0vKaabS6NUtjZ1JI_8GsZlPt_L9gL
+fancy.com	TRUE	/	FALSE	1999999999	lang	en
+
