@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://duke-16.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://duke-16.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://duke-16.myshopify.com/collections/skateboards/24+skateboard.atom"/>
+  <title>DUKE</title>
+  <updated>2013-06-14T09:07:51-04:00</updated>
+  <author>
+    <name>DUKE</name>
+  </author>
+  <entry>
+    <id>https://duke-16.myshopify.com/products/142236647</id>
+    <published>2013-06-14T09:07:51-04:00</published>
+    <updated>2013-06-14T09:07:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://duke-16.myshopify.com/products/rolling-stone"/>
+    <title>Rolling Stone</title>
+    <s:type>Print</s:type>
+    <s:vendor>Duke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/8255/products/dukeboards-rollingstone.jpg?v=1371219521" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Duke<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Welsh onion pea sprouts ricebean chickweed tigernut gumbo watercress rock melon. Artichoke epazote collard greens garbanzo celery coriander quandong napa cabbage winter purslane gourd corn aubergine garlic eggplant. Bush tomato chicory avocado bitterleaf melon rutabaga okra burdock sweet pepper salad.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Skateboard</s:tag>
+    <s:variant>
+      <id>https://duke-16.myshopify.com/products/142236647</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://duke-16.myshopify.com/products/142236635</id>
+    <published>2013-06-14T09:07:27-04:00</published>
+    <updated>2013-06-14T09:07:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://duke-16.myshopify.com/products/petty-thief"/>
+    <title>Petty Thief</title>
+    <s:type>Print</s:type>
+    <s:vendor>Duke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/8255/products/dukeboards-pettythief.jpg?v=1371219496" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Duke<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Welsh onion pea sprouts ricebean chickweed tigernut gumbo watercress rock melon. Artichoke epazote collard greens garbanzo celery coriander quandong napa cabbage winter purslane gourd corn aubergine garlic eggplant. Bush tomato chicory avocado bitterleaf melon rutabaga okra burdock sweet pepper salad.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Skateboard</s:tag>
+    <s:variant>
+      <id>https://duke-16.myshopify.com/products/142236635</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">55.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://duke-16.myshopify.com/products/142236629</id>
+    <published>2013-06-14T09:06:54-04:00</published>
+    <updated>2013-06-14T09:06:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://duke-16.myshopify.com/products/kennedy"/>
+    <title>Kennedy</title>
+    <s:type>Print</s:type>
+    <s:vendor>Duke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/8255/products/dukeboards-kennedy.jpg?v=1371219471" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Duke<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Welsh onion pea sprouts ricebean chickweed tigernut gumbo watercress rock melon. Artichoke epazote collard greens garbanzo celery coriander quandong napa cabbage winter purslane gourd corn aubergine garlic eggplant. Bush tomato chicory avocado bitterleaf melon rutabaga okra burdock sweet pepper salad.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Skateboard</s:tag>
+    <s:variant>
+      <id>https://duke-16.myshopify.com/products/142236629</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://duke-16.myshopify.com/products/142236593</id>
+    <published>2013-06-14T09:06:00-04:00</published>
+    <updated>2013-06-14T09:06:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://duke-16.myshopify.com/products/foundation"/>
+    <title>Foundation</title>
+    <s:type>Print</s:type>
+    <s:vendor>Duke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/8255/products/dukeboards-foundation.jpg?v=1371219438" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Duke<br>
+        <strong>Type: </strong>Print<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Welsh onion pea sprouts ricebean chickweed tigernut gumbo watercress rock melon. Artichoke epazote collard greens garbanzo celery coriander quandong napa cabbage winter purslane gourd corn aubergine garlic eggplant. Bush tomato chicory avocado bitterleaf melon rutabaga okra burdock sweet pepper salad.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Skateboard</s:tag>
+    <s:variant>
+      <id>https://duke-16.myshopify.com/products/142236593</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://duke-16.myshopify.com/products/142236581</id>
+    <published>2013-06-14T09:05:32-04:00</published>
+    <updated>2013-06-14T09:05:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://duke-16.myshopify.com/products/eye-alchemy"/>
+    <title>Eye Alchemy</title>
+    <s:type>Skateboard</s:type>
+    <s:vendor>Duke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/8255/products/dukeboards-eyealchemy.jpg?v=1371219345" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Duke<br>
+        <strong>Type: </strong>Skateboard<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>7 Ply Maple</li>
+<li>8" Board width</li>
+<li>50mm x 30mm PU Wheels</li>
+<li>ABEC Bearings</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>28&quot;</s:tag>
+    <s:tag>31&quot;</s:tag>
+    <s:tag>Skateboard</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://duke-16.myshopify.com/products/142236581</id>
+      <title>28&quot;</title>
+      <s:price currency="GBP">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://duke-16.myshopify.com/products/142236581</id>
+      <title>31&quot;</title>
+      <s:price currency="GBP">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://duke-16.myshopify.com/products/142236545</id>
+    <published>2013-06-14T09:04:59-04:00</published>
+    <updated>2013-06-14T09:04:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://duke-16.myshopify.com/products/arcade"/>
+    <title>Arcade</title>
+    <s:type>Skateboard</s:type>
+    <s:vendor>Duke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0238/8255/products/dukeboards-arcade.jpg?v=1373295331" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Duke<br>
+        <strong>Type: </strong>Skateboard<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>7 Ply Maple</li>
+<li>8" Board width</li>
+<li>50mm x 30mm PU Wheels</li>
+<li>ABEC Bearings</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24&quot;</s:tag>
+    <s:tag>26&quot;</s:tag>
+    <s:tag>28&quot;</s:tag>
+    <s:tag>31&quot;</s:tag>
+    <s:tag>Skateboard</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://duke-16.myshopify.com/products/142236545</id>
+      <title>24&quot;</title>
+      <s:price currency="GBP">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://duke-16.myshopify.com/products/142236545</id>
+      <title>26&quot;</title>
+      <s:price currency="GBP">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://duke-16.myshopify.com/products/142236545</id>
+      <title>28&quot;</title>
+      <s:price currency="GBP">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://duke-16.myshopify.com/products/142236545</id>
+      <title>31&quot;</title>
+      <s:price currency="GBP">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
